@@ -1,3 +1,6 @@
+#### Всякое
+[Intro to Web Dev](https://btholt.github.io/intro-to-web-dev-v2/)
+[Вопросы](https://github.com/lydiahallie/javascript-questions/tree/master/ru-RU)
 ### Знания и умения в Angular
   * Что такое компоненты и зачем он нужен? 
   * Что такое сервисы? 
